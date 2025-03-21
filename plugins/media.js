@@ -67,7 +67,7 @@ async function sendDailyFact(conn, reply) {
         const fact = response.data.text;
 
         // Send the fact back to the user
-        reply(`📚 Here's a ${theme} fact for you on ${dayOfWeek}:\n\n*${fact}*\n\n> POWERED BY KERM*`);
+        reply(`📚 Here's a ${theme} fact for you on ${dayOfWeek}:\n\n*${fact}*\n\n> POWERED BY ALI*`);
         
     } catch (error) {
         console.error("Error fetching daily fact:", error.message);
@@ -78,7 +78,7 @@ async function sendDailyFact(conn, reply) {
 // Function to calculate the time until 6 AM and set the interval
 function sendDailyFactAt6AM(conn, reply) {
     const now = moment();
-    const targetTime = moment().set({ hour: 6, minute: 0, second: 0, millisecond: 0 }); // 6 AM Cameroon time
+    const targetTime = moment().set({ hour: 6, minute: 0, second: 0, millisecond: 0 }); // 6 AM time
 
     if (now.isAfter(targetTime)) {
         // If it's already past 6 AM today, set the time for 6 AM tomorrow
@@ -129,38 +129,61 @@ cmd({
         reply("❌ An error occurred while calculating your age. Please try again later.");
     }
 });
+/*
 cmd({
     pattern: "timezone",
-    desc: "Get the current time in a specific timezone.",
+    desc: "Get the current time in a specific country or timezone.",
     react: "🕰️",
     category: "utility",
-    use: ".timezone <timezone>",
+    use: ".timezone <country/timezone>",
     filename: __filename
 }, async (conn, mek, m, { args, reply }) => {
     try {
         if (args.length === 0) {
-            return reply("❌ Please provide a timezone. Example: `.timezone Europe/Paris`");
+            return reply("❌ Please provide a country or timezone. Example: `.timezone India` or `.timezone Asia/Kolkata`");
         }
 
-        // Get the timezone input from the user
-        const timezone = args.join(" ");
+        let input = args.join(" ");
+        let timezone;
 
-        // API endpoint to get time data
-        const response = await axios.get(`http://worldtimeapi.org/api/timezone/${timezone}`);
+        // Vérifier si l'entrée est déjà un fuseau horaire valide
+        const zonesResponse = await axios.get("http://worldtimeapi.org/api/timezone");
+        const validTimezones = zonesResponse.data;
 
-        // Extract time data
-        const timeData = response.data;
+        if (validTimezones.includes(input)) {
+            timezone = input; // C'est déjà un fuseau valide
+        } else {
+            // Sinon, essayer de convertir un pays en fuseau
+            const countryResponse = await axios.get(`https://restcountries.com/v3.1/name/${input}`);
+            const countryData = countryResponse.data[0];
+
+            if (!countryData) {
+                return reply("❌ Invalid country or timezone. Please try again.");
+            }
+
+            // Récupérer le fuseau du pays (le premier trouvé)
+            const countryTimezones = countryData.timezones;
+            timezone = countryTimezones ? countryTimezones[0] : null;
+
+            if (!timezone) {
+                return reply("❌ Sorry, no timezone found for this country.");
+            }
+        }
+
+        // Maintenant, récupérer l'heure pour le fuseau trouvé
+        const timeResponse = await axios.get(`http://worldtimeapi.org/api/timezone/${timezone}`);
+        const timeData = timeResponse.data;
         const currentTime = timeData.datetime;
         const timezoneName = timeData.timezone;
 
-        // Format the time and send it back to the user
         reply(`🕰️ The current time in ${timezoneName} is: ${currentTime}`);
-        
+
     } catch (error) {
         console.error("Error fetching time:", error.message);
-        reply("❌ Sorry, I couldn't fetch the time for the specified timezone. Please ensure the timezone is valid.");
+        reply("❌ Sorry, I couldn't fetch the time. Please check your input and try again.");
     }
 });
+*/
 cmd({
   pattern: "photo",
   alias: ["toimage", "photo"],
