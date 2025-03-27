@@ -5,9 +5,9 @@
   <p align="center">
 <a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square"></a>
 <a href="https://github.com/itx-alii-raza/ALI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/itx-alii-raza/ALI-MD?color=blue&style=flat-square"></a>
-<a href="[https://github.com/itx-alii-raza/ALI-MD/network/members](https://github.com/hunamqlik/Kashmiri-Md)"><img title="Forks" src="https://img.shields.io/github/forks/itx-alii-raza/ALI-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/itx-alii-raza/ALI-MD/"><img title="Size" src="[https://img.shields.io/github/repo-size/itx-alii-raza/ALI-MD?style=flat-square&color=green](https://github.com/hunamqlik/Kashmiri-Md)"></a>
-<a href="[https://github.com/itx-alii-raza/ALI-MD/graphs/commit-activity](https://github.com/hunamqlik/Kashmiri-Md)"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/itx-alii-raza/ALI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/itx-alii-raza/ALI-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/itx-alii-raza/ALI-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/itx-alii-raza/ALI-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/itx-alii-raza/ALI-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -38,7 +38,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/itx-alii-raza/ALI-MD/fork"><img title="ALI-MD" src="https://img.shields.io/badge/FORK-ALI%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/hunamqlik/STEVE-MD/fork"><img title="ALI-MD" src="https://img.shields.io/badge/FORK-ALI%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
@@ -47,14 +47,14 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 > **1. PAIR CODE SESSION ID**
 
-<a href='https://ali-md-web-qr-pair-z8r2.onrender.com' target="_blank">
+<a href='https://steve-md-web-qr-pair-z8r2.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
 > **2. PAIR CODE SESSION ID**
 
-<a href='https://ali-md-pair-69ad509c920e.herokuapp.com/' target="_blank">
+<a href='https://steve-md-pair-69ad509c920e.herokuapp.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
@@ -63,7 +63,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ---
 
-### <h2 align="">𐃁ALI-MD DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="">𝑲𝑨𝑺𝑯𝑴𝑰𝑹𝑰-𝑴𝑫 DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
@@ -117,7 +117,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ## <h3 align=""> HOW TO DEPLOY ON HUGGING FACE</h3>
 <h6 align-"center">
-*❄️ Deploy ali-md On Hugging Face For Free !*
+*❄️ Deploy 𝒁𝑶𝑹𝑨𝑰𝑩 On Hugging Face For Free !*
 
 `Specs :`
 - v2 CPU
@@ -160,22 +160,22 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
 ## 👑 PROJECT OWNER 
-HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ALI࿐➺
+HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME 𝒁𝑶𝑹𝑨𝑰𝑩࿐➺
 
 <p align="">
-<a href='https://wa.me/+923003588997?text=*ʜɪɪ+ᴀʟɪ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/+923175591425?text=*ʜɪɪ+ᴀʟɪ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+𝒁𝑶𝑹𝑨𝑰𝑩-ᴍᴅ+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## 🪀 WHATSAPP CHANNEL 
 STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaoRxGmJpe8lgCqT1T2h)
+[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VasEIh0KWEKt9jJ1k32H)
 
 ## 🪀 WHATSAPP GROUP
 JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
-[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Lx7sDv7jSy0CCTm5AliPdq)
+[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Hv4EUBzDhcI1ydxay2pSDT)
 
  
 
